@@ -1,0 +1,38 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0-windows</TargetFramework>
+    <LangVersion>latest</LangVersion>
+    <Nullable>enable</Nullable>
+    <EnableDynamicLoading>true</EnableDynamicLoading>
+    <TargetExt>.rhp</TargetExt>
+    <NoWarn>NU1701</NoWarn>
+    <EnableDefaultCompileItems>false</EnableDefaultCompileItems>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <Version>1.0</Version>
+    <Title>BabelRhino8</Title>
+    <Company>BabelRhino8 Authors</Company>
+    <Description>Description of BabelRhino8</Description>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="RhinoCommon" Version="8.0.23304.9001" ExcludeAssets="runtime" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Include="Commands/**/*.cs" />
+    <Compile Include="Domain/**/*.cs" />
+    <Compile Include="Infrastructure/**/*.cs" />
+    <Compile Include="Panels/**/*.cs" />
+    <Compile Include="Plugin/**/*.cs" />
+    <Compile Include="Services/**/*.cs" />
+    <Compile Include="Properties/AssemblyInfo.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="EmbeddedResources/**" />
+  </ItemGroup>
+
+</Project>
