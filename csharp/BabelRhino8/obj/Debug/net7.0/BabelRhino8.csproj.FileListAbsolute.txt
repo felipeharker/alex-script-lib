@@ -1,6 +1,0 @@
-C:\Users\fharker\Documents\GitHub-Local\alex-hub\scripts\csharp\BabelRhino8\obj\Debug\net7.0\BabelRhino8.csproj.AssemblyReference.cache
-C:\Users\fharker\Documents\GitHub-Local\alex-hub\scripts\csharp\BabelRhino8\obj\Debug\net7.0\BabelRhino8.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\fharker\Documents\GitHub-Local\alex-hub\scripts\csharp\BabelRhino8\obj\Debug\net7.0\BabelRhino8.AssemblyInfoInputs.cache
-C:\Users\fharker\Documents\GitHub-Local\alex-hub\scripts\csharp\BabelRhino8\obj\Debug\net7.0\BabelRhino8.AssemblyInfo.cs
-C:\Users\fharker\Documents\GitHub-Local\alex-hub\scripts\csharp\BabelRhino8\obj\Debug\net7.0\BabelRhino8.csproj.CoreCompileInputs.cache
-C:\Users\fharker\Documents\GitHub-Local\alex-hub\scripts\csharp\BabelRhino8\obj\Debug\net7.0\BabelRhino8.sourcelink.json
